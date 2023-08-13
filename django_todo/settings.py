@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-+tt)=a73ufkiew+vom7wy!gl7_o5njp5k3%9*is(!xk!3lz0b8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-frederikka-djangowalkth-pquerytmyj9.ws-eu103.gitpod.io']
+ALLOWED_HOSTS = ['db-my-frist-django-app-e7fcf31403f0.herokuapp.com']
 
 
 # Application definition
